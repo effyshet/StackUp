@@ -1,0 +1,20 @@
+---
+compiled_package_info:
+  package_name: EffyCoin
+  address_alias_instantiation:
+    NamedAddr: 0000000000000000000000000000cafe
+    std: "00000000000000000000000000000001"
+  source_digest: 6B5DFD651B839019755DF89441E11B71F82DC36B361F115E9C4EA048A717D3C8
+  build_flags:
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    fetch_latest_git_deps: false
+dependencies:
+  - MoveStdlib
